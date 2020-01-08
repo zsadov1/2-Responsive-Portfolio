@@ -6,9 +6,9 @@ I made this site for the University of Richmond Bootcamp Homework #2.  The goal 
 
 As a web developer, I need to a portfolio site deployed that will show my skills to potential employers and clients to hire me and be responsive on any device.  This site also gives me an opportunity to introduce myself, while also providing a way for employers and clients to reach out to me.
 
-![Portfolio Site](Images/aboutme.png)
-![Portfolio Site](Images/portfolio.png)
-![Portfolio Site](Images/contact.png)
+![Portfolio Site](Assets/Images/aboutme.png)
+![Portfolio Site](Assets/Images/portfolio.png)
+![Portfolio Site](Assets/Images/contact.png)
 
 ## Credits
 

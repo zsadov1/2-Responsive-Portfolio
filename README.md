@@ -2,9 +2,9 @@
 
 ## Description
 
-I made this site for the University of Richmond Bootcamp Homework #2.  The goal was to create a  responsive portfolio site.  I utilized HTML, Git, Bootstrap 4 and CSS to create my portfolio website.  I had to follow a specific style and specifications.  I deployed using Github Pages.
+I made this site for the University of Richmond Bootcamp Homework #2.  The goal was to create a responsive portfolio site.  I utilized HTML, Git, Bootstrap 4 and CSS to create my portfolio website.  I had to follow a specific style and specifications.  I deployed using Github Pages.
 
-As a web developer, I need to a portfolio site deployed that will show my skills to potential employers and clients to hire me and be responsive on any device.  This site also gives me an opportunity to introduce myself, while also providing a way for employers and clients to reach out to me.
+As a web developer, I need to a portfolio site deployed that will show my skills to potential employers and clients to hire me and be responsive on any device.  This site also gives me an opportunity to introduce myself and provide a way for employers and clients to reach out to me, be it mobile or on a desktop. 
 
 ![Portfolio Site](Assets/Images/aboutme.png)
 ![Portfolio Site](Assets/Images/portfolio.png)

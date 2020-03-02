@@ -141,6 +141,12 @@ h3, h2{
     background: #ffffff;
     border: 1px solid #CCCCCC;
   } 
+  .portfolio-section{
+      display: flex;
+      justify-content: space-evenly;
+      flex-direction: wrap;
+
+  }
 /* contact page */
 
 #contact-form ul{
